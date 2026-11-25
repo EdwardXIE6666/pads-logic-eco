@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+*.pyo
+dist/
+build/
+*.spec
+.pytest_cache/
+tool/pkg-dialog-mock.png
+tests/test_output.eco
+tests/test_output.map.csv

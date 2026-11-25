@@ -1,0 +1,2 @@
+openpyxl>=3.1
+pywin32>=306 ; sys_platform == "win32"   # optional: read 亿赛通-encrypted xlsx via Excel COM
