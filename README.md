@@ -2,6 +2,8 @@
 
 从 ECN 变更表和原理图 BOM 生成 PADS Logic ECO，通过校验才写出文件。
 
+![项目大纲](diagrams/outline.png)
+
 ## 环境
 
 - Windows，Python 3.12

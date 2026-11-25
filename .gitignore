@@ -20,3 +20,4 @@ references/
 tool/pkg-dialog-mock.png
 !requirements.txt
 !/README.md
+!/diagrams/outline.png
