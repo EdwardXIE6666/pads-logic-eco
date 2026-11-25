@@ -19,4 +19,4 @@ library/
 references/
 tool/pkg-dialog-mock.png
 !requirements.txt
-!README.md
+!/README.md
